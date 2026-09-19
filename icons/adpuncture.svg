@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+  <title>AdPuncture: a surprised AD balloon meets a pin</title>
+  <path d="M52 100c-13 15 21 8 9 23" stroke="#292929" stroke-width="4" stroke-linecap="round"/>
+  <path d="m52 89-9 15h22l-8-15" fill="#b11f4b" stroke="#292929" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M54 8C27 8 9 26 9 51c0 25 22 46 45 46 17 0 29-11 35-28l-10-6 9-8-9-8 10-6C85 21 73 8 54 8Z" fill="#ed5779" stroke="#292929" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M22 35c4-10 11-15 22-17" stroke="#fff" stroke-width="5" stroke-linecap="round" opacity=".8"/>
+  <path d="m29 59 8-22 8 22m-13-8h10M52 59V37h6c14 0 14 22 0 22Z" stroke="#fff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <ellipse cx="39" cy="73" rx="3" ry="4" fill="#292929"/>
+  <ellipse cx="61" cy="73" rx="3" ry="4" fill="#292929"/>
+  <ellipse cx="50" cy="84" rx="4" ry="5" fill="#292929"/>
+  <path d="m86 56 25-22" stroke="#fff" stroke-width="10" stroke-linecap="round"/>
+  <path d="m86 56 25-22" stroke="#292929" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="114" cy="30" r="10" fill="#f9ca45" stroke="#292929" stroke-width="4"/>
+  <path d="m95 72 12 5m-11 9 5 9M89 20l4-10" stroke="#f9ca45" stroke-width="5" stroke-linecap="round"/>
+</svg>

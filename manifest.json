@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "AdPuncture",
+  "version": "1.0.0",
+  "description": "Independent manual seeking for HTML5 videos, including seekable ads. Activate on the current page from the toolbar.",
+  "permissions": ["activeTab", "scripting"],
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  },
+  "action": {
+    "default_title": "Show AdPuncture on this page",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png"
+    }
+  },
+  "background": { "service_worker": "background.js" }
+}

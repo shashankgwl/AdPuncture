@@ -1,0 +1,6 @@
+.playwright-mcp/
+node_modules/
+coverage/
+*.log
+.DS_Store
+Thumbs.db
